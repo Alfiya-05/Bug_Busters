@@ -70,12 +70,19 @@ Helps prevent losses before they occur
 <br>
 Tech Stack:
 
-Backend: Python
-Data Processing: Pandas, NumPy
-Machine Learning (optional): Scikit-learn
-Frontend/UI: Streamlit
-Data Input: CSV / Excel files
+Frontend:
+    |_____ React(Vite) 
+    |_____ Tailwindcss
+    |_____ ChartJS
+    
+Backend:
+    |_____ NodeJS
+    |_____ ExpressJs
+    
+Data Processing:
+    |_____ JavaScript
 
+Data:43
 
 <br>
 How It Works:
