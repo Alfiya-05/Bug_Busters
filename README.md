@@ -7,15 +7,16 @@ Small and medium businesses (SMBs) generate large amounts of financial data thro
 Most SMBs lack access to dedicated financial experts or intelligent systems that can continuously monitor and interpret their financial health. This leads to delayed decisions, preventable losses, and operational inefficiencies.
 
 
-
+<br>
 Objective:
 
 To develop an intelligent system that continuously monitors financial transactions, detects anomalies in real-time, predicts potential risks, and provides actionable insights to help SMBs make better financial decisions.
 
-
+<br>
 We propose building an AI-powered Financial Intelligence System that acts as a virtual CFO for small businesses.
 
 
+<br>
 The system will:
 
 Analyze transaction data (income, expenses, vendor payments)
@@ -24,11 +25,13 @@ Predict future cash flow trends
 Provide clear and actionable financial insights
 
 
+<br>
 Proposed Solution:
 
 We propose building an AI-powered Financial Intelligence System that acts as a virtual CFO for small businesses.
 
 
+<br>
 The system will:
 
 Analyze transaction data (income, expenses, vendor payments)
@@ -37,6 +40,7 @@ Predict future cash flow trends
 Provide clear and actionable financial insights
 
 
+<br>
 Key Features:
 
 1.Transaction Analysis
@@ -63,7 +67,7 @@ Provides real-time warnings for financial risks
 Helps prevent losses before they occur
 
 
-
+<br>
 Tech Stack:
 
 Backend: Python
@@ -73,8 +77,7 @@ Frontend/UI: Streamlit
 Data Input: CSV / Excel files
 
 
-
-
+<br>
 How It Works:
 
 User uploads financial transaction data
@@ -92,8 +95,7 @@ Improves decision-making for small business owners
 Brings intelligent financial monitoring to businesses without dedicated finance teams
 Enhances overall financial stability of SMBs
 
-
-
+<br>
 Future Scope:
 
 Integration with accounting tools (e.g., Tally, GST systems)
@@ -103,6 +105,7 @@ Voice or chat-based financial queries
 Vendor risk scoring system
 
 
+<br>
 Conclusion:
 
-This system bridges the gap between financial data and actionable intelligence. By transforming raw data into meaningful insights, it empowers small businesses to operate more efficiently, securely, and profitably
+This system bridges the gap between financial data and actionable intelligence. By transforming raw data into meaningful insights, it empowers small businesses to operate more efficiently, securely, and profitably.
