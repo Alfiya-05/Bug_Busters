@@ -1,0 +1,15 @@
+Date,Amount,Vendor,Type,Category
+2024-01-05,5000,Acme Supplies,expense,Office
+2024-01-08,12000,Client A,income,Revenue
+2024-01-10,5000,Acme Supplies,expense,Office
+2024-01-12,8000,Client B,income,Revenue
+2024-01-15,200000,ABC Ltd,expense,Marketing
+2024-01-18,200000,ABC Ltd,expense,Marketing
+2024-02-01,15000,Client A,income,Revenue
+2024-02-05,45000,Marketing Agency,expense,Marketing
+2024-02-10,9000,Cloud Host,expense,IT
+2024-02-15,11000,Client B,income,Revenue
+2024-03-01,12000,Client A,income,Revenue
+2024-03-05,60000,Marketing Agency,expense,Marketing
+2024-03-08,400000,Big Ads Co,expense,Marketing
+2024-03-10,5000,Office Rent,expense,Rent
