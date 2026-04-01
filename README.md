@@ -70,16 +70,16 @@ Helps prevent losses before they occur
 <br>
 Tech Stack:
 
-Frontend:
+Frontend:<br> 
     |_____ React(Vite)<br> 
     |_____ Tailwindcss<br> 
     |_____ ChartJS<br> 
     
-Backend:
+Backend:<br> 
     |_____ NodeJS<br> 
     |_____ ExpressJs<br> 
     
-Data Processing:
+Data Processing:<br> 
     |_____ JavaScript<br> 
 
 Data:43
