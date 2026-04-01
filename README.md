@@ -74,6 +74,7 @@ Data Input: CSV / Excel files
 
 
 
+
 How It Works:
 
 User uploads financial transaction data
@@ -83,7 +84,7 @@ Generates insights and predictions
 Displays results through an interactive dashboard
 
 
-
+<br>
 Impact:
 
 Reduces financial losses due to unnoticed errors and fraud
