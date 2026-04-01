@@ -43,26 +43,26 @@ Provide clear and actionable financial insights
 <br>
 Key Features:
 
-1.Transaction Analysis
+1. Transaction Analysis
 Processes financial data from CSV/Excel files
 Categorizes income and expenses
 
-2.Anomaly Detection
+2. Anomaly Detection
 Identifies suspicious activities such as:
 Duplicate payments
 Sudden spikes in expenses
 Unusual transaction patterns
 
-3.Cash Flow Prediction
+3. Cash Flow Prediction
 Forecasts future financial position
 Alerts users about potential cash shortages
 
-4.Smart Insights
+4. Smart Insights
 Generates simple, human-readable insights like:
 “Your expenses increased by 25% this month”
 “Vendor X shows repeated high-value transactions”
 
-5.Risk Alerts
+5. Risk Alerts
 Provides real-time warnings for financial risks
 Helps prevent losses before they occur
 
